@@ -1,0 +1,15 @@
+{
+  "name": "electron-mux-meet",
+  "version": "1.0.0",
+  "description": "An electron based version of the popular video conferencing software: Mux Meet",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liam Lindner (wlindner522@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
